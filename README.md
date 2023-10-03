@@ -14,4 +14,4 @@ Example:
 - Clone the repo
 - Run ``` start build.cmd ``` in the command prompt to compile it (You don't need to install any version of .net to compile this, the compiler is built into windows).
 - Run ``` notifRelocator.exe ```
-- Optional: Add ``` notifRelocator.exe ``` to your startup folder.
+- Optional: Add ``` notifRelocator.exe ``` to your startup folder (```C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup```).
